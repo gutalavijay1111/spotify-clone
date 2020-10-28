@@ -6,15 +6,17 @@
     overflow: hidden;
     background-repeat: no-repeat;
 }
+
 .login > img{
-    height: 500px;
+    height: 300px;
 }
+
 .login > a{
-    padding: 20px;
+    padding: 15px;
     background-color: #1db954;
     border-radius: 99px;
     color: white;
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: 1px;
     text-decoration: none;
 }

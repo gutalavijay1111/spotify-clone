@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     color: grey;
+    font-size: 14px;
     height: 40px;
     cursor: pointer;
     transition: 200ms color ease-in;
@@ -19,4 +20,7 @@
     margin-top: 10px;
     margin-left: 20px;
     font-size: 14px;
+    font-weight: 600;
+
+    
 }
