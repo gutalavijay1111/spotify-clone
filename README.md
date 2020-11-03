@@ -1,4 +1,4 @@
-![spotify](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png)
+![spotify](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Black.png)
 
 # Spotify Clone
 A Spotify clone using React and Firebase.🔥
